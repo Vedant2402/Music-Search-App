@@ -26,7 +26,7 @@ A modern music search interface built with **React.js**, featuring:
 
 ## 📸 Screenshot
 
-![screenshot](screenshot.png)
+
 
 ## 💻 Setup Locally
 
