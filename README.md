@@ -1,2 +1,37 @@
-# musicapp
- Vedant's Music Search App is a stylish and interactive music discovery interface built using React.js and the iTunes API. It allows users to search for songs, explore global top hits, listen to previews, view co-singers, and enjoy a dark-themed UI with a custom music cursor and lightning trail effects for an engaging visual experience.
+### Day 3 of 15-day challenge
+
+# 🎶 Vedant's Music Search App
+
+A modern music search interface built with **React.js**, featuring:
+- 🎧 Song search using iTunes API
+- 🌍 Top 5 Global Hits (default)
+- 🎨 Dark theme with animated backgrounds
+- 🖱️ Custom cursor (music icon)
+- ⚡ Cursor trail lightning effect
+- 🎤 Co-singer display & artist info dropdown
+- ➕ Add to List button for each track
+
+## 🚀 Features
+
+- Search songs by name
+- View song preview, album, artist
+- Animated background for visual appeal
+- Responsive and interactive UI
+
+## 🛠 Tech Stack
+
+- React.js
+- HTML, CSS, JavaScript
+- iTunes API (no auth needed)
+
+## 📸 Screenshot
+
+
+
+## 💻 Setup Locally
+
+```bash
+git clone https://github.com/yourusername/music-search-app.git
+cd music-search-app
+npm install
+npm start
